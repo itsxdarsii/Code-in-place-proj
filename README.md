@@ -1,7 +1,6 @@
 # 🍎 Bad Apple!! ASCII MV (Terminal Edition)
 
-A terminal-based recreation of the iconic **Bad Apple!!** music video — in full ASCII, synchronized with audio and adjustable FPS.  
-Watch your terminal become a live concert 🎶🖥️
+A terminal-based recreation of the iconic **Bad Apple!!** music video — in full ASCII, synchronized with audio and adjustable FPS.🎶🖥️
 
 ---
 
