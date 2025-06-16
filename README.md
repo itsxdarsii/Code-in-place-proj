@@ -13,6 +13,20 @@ A terminal-based recreation of the iconic **Bad Apple!!** music video — in ful
 - 💾 Includes frame converter and player
 
 ---
+🛠 How It Works
+convert_frames.py: Converts .jpg frames to ASCII .txt files
+
+run_player.py: Plays the ASCII animation in sync with the audio
+
+Uses pygame.mixer to play music and time.time() to ensure accurate timing
+---
+
+💡 Tips
+Full-screen your terminal for best results
+
+Use a monospace font
+
+Dark mode highly recommended 
 
 ## 🖥️ How to Run
 
@@ -22,3 +36,4 @@ A terminal-based recreation of the iconic **Bad Apple!!** music video — in ful
 
 ```bash
 pip install pygame opencv-python
+
